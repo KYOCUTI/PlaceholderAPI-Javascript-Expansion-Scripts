@@ -3,7 +3,7 @@
 
 **Here’s a step-by-step guide on how to use the JavaScript PlaceholderAPI expansion:**
 
-1. **Download PlaceholderAPI**: First, download PlaceholderAPI from here.
+1. **Download PlaceholderAPI**: First, download PlaceholderAPI from here [PlaceholderAPI on SpigotMC](https://www.spigotmc.org/resources/placeholderapi.6245/).
 
 2. **Install PlaceholderAPI**: Install it in your Minecraft plugins folder.
 
@@ -11,7 +11,7 @@
 
 4. **Locate the PlaceholderAPI Folder**: Open it, you will find a folder called "expansions". Now depending on whether if you downloaded expansions or not it should be an empty folder.
 
-5. **Download the JavaScript Expansion**: Now go to here and download that expansion.
+5. **Download the JavaScript Expansion**: Now go to here and download that expansion [JavaScript Expansion for PlaceholderAPI](https://api.extendedclip.com/expansions/javascript/).
 
 6. **Install the JavaScript Expansion**: When it finishes downloading, drag the downloaded expansion into the "expansion" folder that was created by PlaceholderAPI when you started the server.
 

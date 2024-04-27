@@ -46,7 +46,9 @@
 
     And then save and exit.
 
-11. **You’re Done !**: And there you have it! You have successfully installed the JavaScript and now you can use your new placeholder. The placeholder will depend on the .js name just like our example above the placeholder is gonna look like this %javascript_this_is_a_test%.
+11. Make sure to reload your PlaceholderAPI plugin by executing /papi reload in your server
+ 
+12. **You’re Done !**: And there you have it! You have successfully installed the JavaScript and now you can use your new placeholder. The placeholder will depend on the .js name just like our example above the placeholder is gonna look like this %javascript_this_is_a_test%.
 
 Your JavaScript placeholders will be identified by: %javascript_<identifier>%
 

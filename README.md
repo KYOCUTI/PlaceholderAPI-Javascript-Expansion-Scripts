@@ -49,3 +49,5 @@
 11. **You’re Done !**: And there you have it! You have successfully installed the JavaScript and now you can use your new placeholder. The placeholder will depend on the .js name just like our example above the placeholder is gonna look like this %javascript_this_is_a_test%.
 
 Your JavaScript placeholders will be identified by: %javascript_<identifier>%
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/L3L8VY76N)

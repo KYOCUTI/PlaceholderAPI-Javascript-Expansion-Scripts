@@ -1,0 +1,14 @@
+/*
+ * This JS script formats the date to be displayed in the
+ * format: "Saturday, January 01, 2024" / {Day of the Week}, {Month} {Day}, {Year}
+ * This format is human-readable and commonly used in written English.
+ */
+
+var currentDate = new Date();
+
+var days = ['Sunday', 'Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday', 'Saturday'];
+var months = ['January', 'February', 'March', 'April', 'May', 'June', 'July', 'August', 'September', 'October', 'November', 'December'];
+
+var formattedDate = days[currentDate.getDay()] + ', ' + months[currentDate.getMonth()] + ' ' + currentDate.getDate() + ', ' + currentDate.getFullYear();
+
+formattedDate;

@@ -50,4 +50,6 @@
 
 Your JavaScript placeholders will be identified by: %javascript_<identifier>%
 
+![eos1shld](https://github.com/KYOCUTI/PlaceholderAPI-Javascript-Expansion-Scripts/assets/160293377/6e7fafe1-a098-4284-ac1d-ca8ca65a4b74)
+
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/L3L8VY76N)
